@@ -1,0 +1,25 @@
+1. file env
+   rename file env.example atau buat baru file env. copy paste dari env.example
+
+cek keynya
+composer install
+
+php artisan key:generate
+
+composer.json (manisfes semua aset yang diinstal di sini)
+
+jalankan login
+- npm install 'kalau belum diinstal
+- npm run build
+
+2. file vendor (jantungny laraver) kenapa tidak diupload ke github karena sizenya terlalu besar
+
+
+install tambahkan auth
+install lewat composer
+
+ui boostrap --auth
+npm install
+npm run build
+
+php artisan migrate
